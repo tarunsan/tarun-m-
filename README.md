@@ -23,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react.js,C,C++,node.js,git,github,linux,vscode,blender,Antigravity,Firebase,Leetcode,google skills" />
 </p>
 
 ---
