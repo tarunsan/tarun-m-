@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Tarun+M;Engineering+Student+%7C+Full-Stack+Developer;Founder+%40+MUST+Properties;Building+Scalable+Tech+%26+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Tarun+M;Engineering+Student+%7C+Full-Stack+Developer;Founder+%40+MUST+Properties;Building+Scalable+Tech+Products" />
 </p>
 
 <p align="center">
@@ -20,53 +20,55 @@
 
 ---
 
-## 👨‍💻 Summary
-- 🎓 Engineering student with strong foundations in **CS fundamentals & software engineering**
+## 👨‍💻 About Me
+- 🎓 Engineering student with strong interest in **software engineering & startups**
 - 💻 Full-stack developer building **production-ready web applications**
-- 🏢 Founder of **MUST Properties** (real-world business + tech)
-- ⚙️ Focused on **clean architecture, performance, and scalability**
-- 🎯 Actively preparing for **top-tier internships & tech roles**
+- 🏢 Founder of **MUST Properties** (real business + real tech)
+- ⚙️ Focused on **clean code, scalability & performance**
+- 🎯 Preparing for **top-tier internships & tech roles**
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,react,nodejs,c,cpp,git,github,linux,vscode,firebase,blender" />
 </p>
-
-**Core Strengths**
-- Data Structures & Problem Solving  
-- REST APIs & Frontend Performance  
-- Version Control (Git) & Collaboration  
-- UI/UX with Business Thinking  
 
 ---
 
 ## 🚀 Featured Project
 ### 🏡 MUST Properties
 🔗 https://must-properties.com  
-📌 A professional real-estate platform focused on **trust, usability, and growth**
+📌 A professional real-estate platform designed for **trust, usability & business growth**
 
 **Highlights**
-- Clean UI & responsive design  
-- Business-oriented UX  
-- Optimized for performance & reliability  
+- Responsive modern UI  
+- Business-focused UX  
+- Performance-optimized frontend  
 
 ---
 
 ## 📊 GitHub Performance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunmgowda&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmgowda&theme=tokyonight" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tarunmgowda&show_icons=true&theme=tokyonight&cache_seconds=86400" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=tarunmgowda&theme=tokyonight&cache_seconds=86400" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmgowda&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunmgowda&layout=compact&theme=tokyonight&cache_seconds=86400"
+  />
 </p>
 
 ---
 
-## 🤝 Contact
+## 🤝 Connect With Me
 - 🌐 Website: https://must-properties.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/tarun-m-gowda-20112933b  
 - 📧 Email: tarun.m1890@gmail.com  
